@@ -82,3 +82,19 @@ p {
     text-align: center;
   }
 }
+.about-section h1 {
+  font-size: 64px;
+  line-height: 80px;
+}
+.about-section h2 {
+  font-size: 18px;
+  font-family: var(--default-font-family);
+}
+
+.about-section img {
+  width: 500px;
+  height: 605px;
+  left: 711px;
+  top: 0px;
+  border-radius: 10px;
+}
